@@ -6,7 +6,6 @@ import OurCustomersBox from "../../components/OurCustomersBox";
 import PostBox from "../../components/PostBox";
 import MyBook from "../../components/MyBook";
 import SocialNetworksBox from "../../components/SocialNetworksBox";
-import LinksBox from "../../components/LinksBox";
 
 class Home extends Component {
   render() {
@@ -140,10 +139,6 @@ class Home extends Component {
 
               <div className="card mb-4  d-lg-block">
                 <SocialNetworksBox />
-              </div>
-
-              <div className="card card-link-list">
-                <LinksBox />
               </div>
             </div>
           </div>

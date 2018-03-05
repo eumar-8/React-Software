@@ -13,12 +13,10 @@ class ProfileBox extends Component {
             }}
           />
           <div className="card-body text-center">
-            <a href=" url(../assets/img/profile-picture.jpg)">
-              <img
-                className="card-profile-img"
-                src="../assets/img/profile-picture.jpg "
-              />
-            </a>
+            <img
+              className="card-profile-img"
+              src="../assets/img/profile-picture.jpg "
+            />
 
             <h6 className="card-title">
               <a className="text-inherit" href="profile/index.html">

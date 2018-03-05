@@ -10,15 +10,15 @@ class AboutBox extends Component {
             <ul className="list-unstyled list-spaced">
               <li>
                 <span className="text-muted icon icon-skype-with-circle mr-3" />Skype
-                <a href="emiliorodriguez@gmail.com"> emilioicai </a>
+                <a href="skype:emilioicai"> emilioicai </a>
               </li>
               <li>
                 <span className="text-muted icon icon-phone mr-3" />(UK)
-                <a href="#"> 07827 696467</a>
+                <a href="tel:+447827696467"> 07827 696467</a>
               </li>
               <li>
                 <span className="text-muted icon icon-phone mr-3" />(NL)
-                <a href="#"> 645 159 778</a>
+                <a href="tel:+31645159778"> 645 159 778</a>
               </li>
               <li>
                 <span className="text-muted icon icon-email mr-3" />

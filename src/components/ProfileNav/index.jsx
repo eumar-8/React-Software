@@ -11,17 +11,17 @@ class App extends Component {
             <ul class="nav nav-tabs justify-content-center">
               <li class="nav-item">
                 <a class="nav-link active" href="/Profile">
-                  Portfolio
+                  Apps
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="/Others">
-                  Others
+                  Webs
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="/Anothers">
-                  Anothers
+                  Others
                 </a>
               </li>
             </ul>

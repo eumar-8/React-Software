@@ -13,9 +13,9 @@ class ProfileBigBox extends Component {
             <div class="container-inner">
               <img
                 class="rounded-circle media-object"
-                src="../assets/img/avatar-dhg.png"
+                src="../assets/img/profile-picture.jpg"
               />
-              <h3 class="profile-header-user">Dave Gamache</h3>
+              <h3 class="profile-header-user">Emilio Rodriguez </h3>
               <p class="profile-header-bio">
                 I wish i was a little bit taller, wish i was a baller, wish i
                 had a girl… also.

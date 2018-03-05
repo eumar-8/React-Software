@@ -12,16 +12,21 @@ class PostBox extends Component {
           <div className="media-body">
             <div className="media-heading">
               <small className="float-right text-muted">4 min</small>
-              <h6>Currently App Brithis Gas</h6>
+              <h6>Currently App British Gas</h6>
             </div>
 
             <p>
-              Aenean lacinia bibendum nulla sed consectetur. Vestibulum id
-              ligula porta felis euismod semper. Morbi leo risus, porta ac
-              consectetur ac, vestibulum at eros. Cras justo odio, dapibus ac
-              facilisis in, egestas eget quam. Vestibulum id ligula porta felis
-              euismod semper. Cum sociis natoque penatibus et magnis dis
-              parturient montes, nascetur ridiculus mus.
+              As part of British Gas digital transformation project, I was hired
+              as a <strong>React Native </strong> freelance developer to lead
+              one of the transformation teams in charge of building the next
+              generation app which brought British Gas into the modern mobile
+              world. As a senior React Native developer I helped in designing
+              the architecture and training one of the teams composed by a mix
+              of native and web developers. For this app we used several top
+              notch technologies as Typescript, Realm, Redux, Redux sagas and
+              many more. I also helped in designing the building and deployment
+              strategies using <strong>Travis, Hockey App </strong>and{" "}
+              <strong>Fastlane.</strong>
             </p>
 
             <div className="media-body-inline-grid" data-grid="images">
@@ -33,95 +38,181 @@ class PostBox extends Component {
                   src="assets/img/bg-app-1.png"
                 />
               </div>
-
-              <div style={{ display: "none" }}>
-                <img
-                  data-action="zoom"
-                  data-width="600"
-                  data-height="1200"
-                  src="assets/img/bg-app-2.jpg"
-                />
-              </div>
-
-              <div style={{ display: "none" }}>
-                <img
-                  data-action="zoom"
-                  data-width="600"
-                  data-height="1200"
-                  src="assets/img/bg-app-3.jpg"
-                />
-              </div>
             </div>
           </div>
         </li>
-
         <li className="media list-group-item p-4">
           <img
             className="media-object d-flex align-self-start mr-3"
-            src="assets/img/avatar-fat.jpg"
-          />
-          <div className="media-body">
-            <div className="media-body-text">
-              <div className="media-heading">
-                <small className="float-right text-muted">12 min</small>
-                <h6>Jacob Thornton</h6>
-              </div>
-              <p>
-                Donec id elit non mi porta gravida at eget metus. Integer
-                posuere erat a ante venenatis dapibus posuere velit aliquet. Cum
-                sociis natoque penatibus et magnis dis parturient montes,
-                nascetur ridiculus mus. Morbi leo risus, porta ac consectetur
-                ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit.
-              </p>
-            </div>
-          </div>
-        </li>
-
-        <li className="media list-group-item p-4">
-          <img
-            className="media-object d-flex align-self-start mr-3"
-            src="assets/img/avatar-mdo.png"
+            src="assets/img/logo-redhat-color.png"
           />
           <div className="media-body">
             <div className="media-heading">
-              <small className="float-right text-muted">34 min</small>
-              <h6>Mark Otto</h6>
+              <small className="float-right text-muted">4 min</small>
+              <h6>Redhat</h6>
             </div>
 
             <p>
-              Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id
-              ligula porta felis euismod semper. Aenean eu leo quam.
-              Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam
-              porta sem malesuada magna mollis euismod. Donec sed odio dui.
+              Aa mobile developer's advocate I helped Red Hat customers' to
+              build mobile apps using RedHat's MBaaS (FeedHenry) based on
+              <strong> Docker, Kubernetes</strong> and{" "}
+              <strong>OpenShift.</strong> As part of their mobile team I open
+              sourced several example apps as Raincatcher: Red Hat's mobile
+              solution for WorkForce Management.
             </p>
+            <div className="boy" data-grid="images">
+              <div
+                style={{
+                  display: "inlineBlock",
+                  marginBottom: "10px",
+                  marginRight: "10px",
+                  verticalAlign: " bottom"
+                }}
+              >
+                <img
+                  data-action="zoom"
+                  data-width="227px"
+                  data-height="453px"
+                  src="assets/img/redhat2.png"
+                  style={{ width: "227px", height: "453px" }}
+                  className=""
+                />
+              </div>
+              <div
+                style={{
+                  display: "inline-block",
+                  marginBottom: "10px",
+                  marginRight: "0px",
+                  verticalAlign: "bottom"
+                }}
+              >
+                <img
+                  data-action="zoom"
+                  data-width="227px"
+                  data-height="453px"
+                  src="assets/img/redhat4.png"
+                  style={{ width: "227px", height: "454px" }}
+                />
+              </div>
+            </div>
+          </div>
+        </li>
 
-            <div className="media-body-inline-grid" data-grid="images">
-              <img
-                style={{ display: "none" }}
-                data-width="640"
-                data-height="640"
-                data-action="zoom"
-                src="assets/img/instagram_3.jpg"
-              />
+        <li className="media list-group-item p-4">
+          <img
+            className="media-object d-flex align-self-start mr-3"
+            src="assets/img/logo-desbooker-color.png"
+          />
+          <div className="media-body">
+            <div className="media-heading">
+              <small className="float-right text-muted">4 min</small>
+              <h6>Deskbookers</h6>
             </div>
 
-            <ul className="media-list">
-              <li className="media">
+            <p>
+              Deskbookers is the airbnb of offices and flexible workspaces. Used
+              by thousands of freelancers and event managers they lacked of a
+              mobile solution for their product offering. I was hired to build
+              their app in <strong>React Native</strong> introducing{" "}
+              <strong>React</strong> and <strong> Redux</strong> into the
+              company. As the <strong>mobile lead </strong> of the company, I
+              was responsible not only of building the app but I was also
+              helping the product team in taking decisions on the mobile
+              strategy for the company.
+            </p>
+
+            <div className="boy" data-grid="images">
+              <div
+                style={{
+                  display: "inlineBlock",
+                  marginBottom: "10px",
+                  marginRight: "10px",
+                  verticalAlign: " bottom"
+                }}
+              >
                 <img
-                  className="media-object d-flex align-self-start mr-3"
-                  src="assets/img/avatar-dhg.png"
+                  data-action="zoom"
+                  data-width="227px"
+                  data-height="453px"
+                  src="assets/img/deskbookers1.png"
+                  style={{ width: "227px", height: "453px" }}
+                  className=""
                 />
-                <div className="media-body">
-                  <strong>Dave Gamache: </strong>
-                  Donec id elit non mi porta gravida at eget metus. Vivamus
-                  sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-                  Donec ullamcorper nulla non metus auctor fringilla. Praesent
-                  commodo cursus magna, vel scelerisque nisl consectetur et. Sed
-                  posuere consectetur est at lobortis.
-                </div>
-              </li>
-            </ul>
+              </div>
+              <div
+                style={{
+                  display: "inline-block",
+                  marginBottom: "10px",
+                  marginRight: "0px",
+                  verticalAlign: "bottom"
+                }}
+              >
+                <img
+                  data-action="zoom"
+                  data-width="227px"
+                  data-height="453px"
+                  src="assets/img/deskbookers3.png"
+                  style={{ width: "227px", height: "454px" }}
+                />
+              </div>
+            </div>
+          </div>
+        </li>
+        <li className="media list-group-item p-4">
+          <img
+            className="media-object d-flex align-self-start mr-3"
+            src="assets/img/logo2days.png"
+          />
+          <div className="media-body">
+            <div className="media-heading">
+              <small className="float-right text-muted">4 min</small>
+              <h6>2Days</h6>
+            </div>
+
+            <p>
+              2days is an events discovery app for iOS and Android. I built the
+              mobile app in <strong>Titanium</strong>, the web in{" "}
+              <strong>React</strong> and the backend in <strong>node.</strong>
+              A <strong>fullstack JavaScript </strong> project which ended up
+              being featured in the Appstore as one of the most downloaded apps
+              in the region of Amsterdam.
+            </p>
+
+            <div className="boy" data-grid="images">
+              <div
+                style={{
+                  display: "inlineBlock",
+                  marginBottom: "10px",
+                  marginRight: "10px",
+                  verticalAlign: " bottom"
+                }}
+              >
+                <img
+                  data-action="zoom"
+                  data-width="227px"
+                  data-height="453px"
+                  src="assets/img/2 days1.png"
+                  style={{ width: "227px", height: "453px" }}
+                  className=""
+                />
+              </div>
+              <div
+                style={{
+                  display: "inline-block",
+                  marginBottom: "10px",
+                  marginRight: "0px",
+                  verticalAlign: "bottom"
+                }}
+              >
+                <img
+                  data-action="zoom"
+                  data-width="227px"
+                  data-height="453px"
+                  src="assets/img/2 days2.png"
+                  style={{ width: "227px", height: "454px" }}
+                />
+              </div>
+            </div>
           </div>
         </li>
       </Fragment>
