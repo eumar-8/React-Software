@@ -34,19 +34,19 @@ class App extends Component {
                     <span className="sr-only">(current)</span>
                   </a>
                 </li>
-                <li className="nav-item">
+                {/* <li className="nav-item">
                   <a className="nav-link" href="/Profile">
                     Portfolio
                   </a>
-                </li>
+                </li> */}
                 <li className="nav-item">
                   <a className="nav-link" data-toggle="modal" href="#msgModal">
                     Contact
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="docs/index.html">
-                    more
+                  <a className="nav-link" href="docs/cv.pdf">
+                    My CV
                   </a>
                 </li>
               </ul>

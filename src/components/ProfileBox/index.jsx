@@ -19,9 +19,9 @@ class ProfileBox extends Component {
             />
 
             <h6 className="card-title">
-              <a className="text-inherit" href="profile/index.html">
-                {resume.name}
-              </a>
+
+              {resume.name}
+
             </h6>
 
             <p
