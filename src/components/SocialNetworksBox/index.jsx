@@ -5,7 +5,7 @@ class SocialNetworksBox extends Component {
     return (
       <Fragment>
         <div className="card-body">
-          <h6 className="mb-3">Social Networks</h6>
+          <h6 className="mb-3">My Social Networks</h6>
           <ul className="media-list media-list-stream">
             <li className="media mb-2">
               <a className="media-left" href="#">

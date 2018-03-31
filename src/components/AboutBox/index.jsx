@@ -6,7 +6,7 @@ class AboutBox extends Component {
       <Fragment>
         <div className="card d-md-block d-lg-block mb-4">
           <div className="card-body">
-            <h6 className="mb-3">About</h6>
+            <h6 className="mb-3">My Contact Details</h6>
             <ul className="list-unstyled list-spaced">
               <li>
                 <span className="text-muted icon icon-skype-with-circle mr-3" />Skype&nbsp;

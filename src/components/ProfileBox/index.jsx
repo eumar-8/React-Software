@@ -18,14 +18,13 @@ class ProfileBox extends Component {
               src="../assets/img/profile-picture.jpg "
             />
 
-            <h6 className="card-title">
-
+            <h5 className="card-title" >
               {resume.name}
-
-            </h6>
+            </h5>
 
             <p
               className="mb-4"
+              style={{ textAlign: 'justify', marginTop: 20 }}
               dangerouslySetInnerHTML={{ __html: resume.subtitle }}
             />
           </div>

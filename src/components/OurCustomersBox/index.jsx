@@ -6,7 +6,7 @@ class OurCustomersBox extends Component {
       <Fragment>
         <div className="card d-md-block d-lg-block mb-4">
           <div className="card-body">
-            <h6 className="mb-3">Our customers</h6>
+            <h6 className="mb-3">My customers</h6>
             <div data-grid="images" data-target-height="150">
               <div>
                 <img
