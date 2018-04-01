@@ -11,7 +11,7 @@ class SocialNetworksBox extends Component {
               <a className="media-left" href="#">
                 <img
                   className="media-object d-flex align-self-start mr-3"
-                  src="assets/img/github-icon.png"
+                  src="assets/img/github-icon2.png"
                 />
               </a>
               <div className="media-body">
