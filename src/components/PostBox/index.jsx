@@ -7,7 +7,7 @@ class PostBox extends Component {
         <li className="media list-group-item p-4">
           <img
             className="media-object d-flex align-self-start mr-3"
-            src="assets/img/logo-british.png"
+            src="assets/img/myvolkswagen.jpg"
           />
           <div className="media-body">
             <div className="media-heading">
@@ -27,13 +27,38 @@ class PostBox extends Component {
               <strong>Firebase</strong>, <strong>Fastlane</strong> or <strong>Sentry</strong> (for crash reporting).
             </p>
 
-            <div className="media-body-inline-grid" data-grid="images">
-              <div style={{ display: "none" }}>
+            <div className="boy" data-grid="images">
+              <div
+                style={{
+                  display: "inlineBlock",
+                  marginBottom: "10px",
+                  marginRight: "10px",
+                  verticalAlign: " bottom"
+                }}
+              >
                 <img
                   data-action="zoom"
-                  data-width="1400"
-                  data-height="700"
-                  src="assets/img/bg-app-1.png"
+                  data-width="227px"
+                  data-height="453px"
+                  src="assets/img/myvolkswagen1.jpg"
+                  style={{ width: "227px", height: "453px" }}
+                  className=""
+                />
+              </div>
+              <div
+                style={{
+                  display: "inline-block",
+                  marginBottom: "10px",
+                  marginRight: "0px",
+                  verticalAlign: "bottom"
+                }}
+              >
+                <img
+                  data-action="zoom"
+                  data-width="227px"
+                  data-height="453px"
+                  src="assets/img/myvolkswagen2.jpg"
+                  style={{ width: "227px", height: "454px" }}
                 />
               </div>
             </div>
